@@ -4,5 +4,5 @@ My name is Narae Lee and I recently graduated from Georgia Tech with a major in 
 
 I am currently looking for a full-time opportunity in Data Analytics and Software Engineering.
 
-Feel free to reach out to me at my LinkedIn profile below.
+Feel free to reach out to me at my LinkedIn profile:
 https://www.linkedin.com/in/narae-lee-532964135/
